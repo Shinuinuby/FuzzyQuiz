@@ -1,0 +1,23 @@
+
+INTRODUCTION TO PYTHON
+
+Python is a high-level programming language.
+It is commonly used for web development,
+data analysis, automation, and artificial intelligence.
+
+A variable is used to store information.
+For example, age = 20 stores the value 20.
+
+Python uses the print() function to display output.
+
+Conditional statements allow programs to make
+decisions. The if statement checks whether a
+condition is true.
+
+Loops allow programs to repeat instructions.
+The for loop is commonly used to iterate over
+a sequence.
+
+Functions are reusable blocks of code.
+In Python, functions are defined using
+the def keyword.

@@ -1,0 +1,56 @@
+
+/* FuzzyQuiz - Main styling */
+
+.block-container {
+    max-width: 900px;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+}
+
+/* Main headings */
+h1, h2, h3 {
+    letter-spacing: -0.025em;
+}
+
+/* Buttons */
+.stButton > button[kind="primary"],
+.stFormSubmitButton > button[kind="primary"] {
+    border-radius: 10px;
+    font-weight: 600;
+    min-height: 46px;
+}
+
+/* Secondary buttons */
+.stButton > button {
+    border-radius: 10px;
+    min-height: 42px;
+}
+
+/* Input fields */
+div[data-baseweb="input"] {
+    border-radius: 10px;
+}
+
+/* Cards */
+.fq-card {
+    background: #FFFFFF;
+    border: 1px solid #E2E8F0;
+    border-radius: 14px;
+    padding: 20px;
+    margin: 12px 0;
+}
+
+/* Supporting text */
+.fq-muted {
+    color: #64748B;
+    font-size: 0.92rem;
+}
+
+/* Small section label */
+.fq-label {
+    color: #2563EB;
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+}
